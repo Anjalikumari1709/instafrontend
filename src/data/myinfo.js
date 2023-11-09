@@ -3,7 +3,7 @@ let myInfo={
      username:"pooja_123",
      post:45,
      followers:265,
-     foolowing:453,
+     following:453,
      name:"Pooja Sharma",
      Bio:"i am a IT Trainner",
      savedStatus:[

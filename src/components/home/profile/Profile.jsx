@@ -9,7 +9,7 @@ const Profile = () => {
         <SideBar/>
         <div>
         <Header myInfo={myInfo}/>
-        <Post post={myInfo.posts}/>
+        <MyPost post={myInfo.posts}/>
        </div>
     </div>
   )
